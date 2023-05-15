@@ -19,4 +19,4 @@ you've copied a text message, and whenever you ctrl+v paste it, it should
 paste the proper selected message. Multi-select is not functioning properly,
 and instead of allowing you to select multiple messages, it selects ALL of them.
 
-![Image showing the app](https://github.com/Matan-Abir/Streamer-Clipboard-Manager/blob/master/Image.png?raw=true)
+![Image showing the app](https://github.com/Matan-Abir/Streamer-Clipboard-Manager/blob/main/Image.png?raw=true)
